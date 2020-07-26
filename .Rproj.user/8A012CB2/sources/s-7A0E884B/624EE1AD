@@ -3,7 +3,7 @@
     "path": "~/rpros/exploratory_analysis_R/main_file.R",
     "project_path": "main_file.R",
     "type": "r_source",
-    "hash": "4217897723",
+    "hash": "1936267304",
     "contents": "",
     "dirty": false,
     "created": 1595802082642.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "4,0",
-        "scrollLine": "0"
+        "cursorPosition": "17,11",
+        "scrollLine": "5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1595802213,
+    "lastKnownWriteTime": 1595805381,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1595802213295,
+    "last_content_update": 1595805381305,
     "read_only": false,
     "read_only_alternatives": []
 }
